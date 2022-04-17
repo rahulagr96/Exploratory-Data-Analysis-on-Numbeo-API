@@ -1,0 +1,110 @@
+{
+    "0":{
+        "year":"2014",
+        "country":"United States",
+        "traffic_time_index":37.1308988764,
+        "quality_of_life_index":195.5464079422,
+        "healthcare_index":68.5754215264,
+        "purchasing_power_incl_rent_index":132.9070160237,
+        "house_price_to_income_ratio":2.4336845288,
+        "pollution_index":35.1261046108,
+        "safety_index":49.8525183497,
+        "cpi_index":77.3939225023
+    },
+    "1":{
+        "year":"2015",
+        "country":"United States",
+        "traffic_time_index":35.9582142857,
+        "quality_of_life_index":192.4885589824,
+        "healthcare_index":67.751551279,
+        "purchasing_power_incl_rent_index":126.0900590075,
+        "house_price_to_income_ratio":2.6192422956,
+        "pollution_index":31.447634713,
+        "safety_index":49.9929951238,
+        "cpi_index":76.533977802
+    },
+    "2":{
+        "year":"2016",
+        "country":"United States",
+        "traffic_time_index":33.3515410959,
+        "quality_of_life_index":183.9606199436,
+        "healthcare_index":67.7600263083,
+        "purchasing_power_incl_rent_index":139.1709387217,
+        "house_price_to_income_ratio":3.3732698921,
+        "pollution_index":34.9403055956,
+        "safety_index":51.1290999605,
+        "cpi_index":74.0838050202
+    },
+    "3":{
+        "year":"2017",
+        "country":"United States",
+        "traffic_time_index":34.5790640394,
+        "quality_of_life_index":179.7250401681,
+        "healthcare_index":68.2183535974,
+        "purchasing_power_incl_rent_index":123.1732495588,
+        "house_price_to_income_ratio":3.2575507832,
+        "pollution_index":31.1919128182,
+        "safety_index":51.2392411979,
+        "cpi_index":75.4169485602
+    },
+    "4":{
+        "year":"2018",
+        "country":"United States",
+        "traffic_time_index":34.7411685307,
+        "quality_of_life_index":180.5571751936,
+        "healthcare_index":68.3831903613,
+        "purchasing_power_incl_rent_index":127.6231191495,
+        "house_price_to_income_ratio":3.3350432959,
+        "pollution_index":31.6979094257,
+        "safety_index":50.4241415045,
+        "cpi_index":72.9536335318
+    },
+    "5":{
+        "year":"2019",
+        "country":"United States",
+        "traffic_time_index":32.8696063892,
+        "quality_of_life_index":179.2047672637,
+        "healthcare_index":69.4084852445,
+        "purchasing_power_incl_rent_index":122.026386712,
+        "house_price_to_income_ratio":3.5836695636,
+        "pollution_index":33.9458068689,
+        "safety_index":52.8673817926,
+        "cpi_index":69.9099903472
+    },
+    "6":{
+        "year":"2020",
+        "country":"United States",
+        "traffic_time_index":32.8892913481,
+        "quality_of_life_index":172.1104273671,
+        "healthcare_index":69.2704838709,
+        "purchasing_power_incl_rent_index":109.5209542225,
+        "house_price_to_income_ratio":3.5188533162,
+        "pollution_index":36.8756470939,
+        "safety_index":52.8006071798,
+        "cpi_index":71.0529809623
+    },
+    "7":{
+        "year":"2021",
+        "country":"United States",
+        "traffic_time_index":32.8904292895,
+        "quality_of_life_index":166.9782144329,
+        "healthcare_index":69.031009091,
+        "purchasing_power_incl_rent_index":102.5759272298,
+        "house_price_to_income_ratio":3.9942735915,
+        "pollution_index":38.8878011686,
+        "safety_index":52.264980949,
+        "cpi_index":71.9156828603
+    },
+    "8":{
+        "year":"2022",
+        "country":"United States",
+        "traffic_time_index":32.8542675257,
+        "quality_of_life_index":170.7159373761,
+        "healthcare_index":69.0552898745,
+        "purchasing_power_incl_rent_index":106.3406152537,
+        "house_price_to_income_ratio":3.9601510754,
+        "pollution_index":35.3294574333,
+        "safety_index":51.8375510144,
+        "cpi_index":70.1275708816
+    }
+}
